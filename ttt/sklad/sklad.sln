@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sklad", "sklad.csproj", "{EC5F2180-A3A0-45B9-A78D-BF2ECCA5E058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		1|Any CPU = 1|Any CPU
+		2|Any CPU = 2|Any CPU
+		3|Any CPU = 3|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC5F2180-A3A0-45B9-A78D-BF2ECCA5E058}.1|Any CPU.ActiveCfg = 1|Any CPU
+		{EC5F2180-A3A0-45B9-A78D-BF2ECCA5E058}.1|Any CPU.Build.0 = 1|Any CPU
+		{EC5F2180-A3A0-45B9-A78D-BF2ECCA5E058}.2|Any CPU.ActiveCfg = 2|Any CPU
+		{EC5F2180-A3A0-45B9-A78D-BF2ECCA5E058}.2|Any CPU.Build.0 = 2|Any CPU
+		{EC5F2180-A3A0-45B9-A78D-BF2ECCA5E058}.3|Any CPU.ActiveCfg = 3|Any CPU
+		{EC5F2180-A3A0-45B9-A78D-BF2ECCA5E058}.3|Any CPU.Build.0 = 3|Any CPU
+		{EC5F2180-A3A0-45B9-A78D-BF2ECCA5E058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5F2180-A3A0-45B9-A78D-BF2ECCA5E058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5F2180-A3A0-45B9-A78D-BF2ECCA5E058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5F2180-A3A0-45B9-A78D-BF2ECCA5E058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
